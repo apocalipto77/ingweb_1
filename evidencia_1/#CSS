@@ -1,7 +1,6 @@
-.productos{
-    width: 940px;
-    margin: 0 auto;
-    padding: 50px;
+.texto1{
+    background-color: #AAAAAAAA;
+    
 }
 
 .titulo1{
@@ -9,6 +8,6 @@
     padding:20px 0;
 }
     
-{
+
 
 
