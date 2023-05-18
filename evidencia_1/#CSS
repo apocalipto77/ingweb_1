@@ -1,0 +1,14 @@
+.productos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.titulo1{
+    background-color: #BBBBBB;
+    padding:20px 0;
+}
+    
+{
+
+
